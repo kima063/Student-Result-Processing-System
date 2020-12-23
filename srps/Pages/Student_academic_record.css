@@ -1,0 +1,103 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: maroon;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 300%;
+  padding-left: 40%;
+
+}
+.name{
+  color: forestgreen;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 200%;
+  position:absolute;
+  padding-left: 20%;
+}
+.ID{
+  color: indianred;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 200%;
+  position:absolute;
+  padding-left: 20%;
+}
+.mail{
+  color: rebeccapurple;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 200%;
+  position:absolute;
+  padding-left: 20%;
+}
+
+
+.StudentName,.StudentID,.email {
+  color: black;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 180%;
+  position:absolute;
+  padding-left: 40%;
+
+}
+.result{
+  color: tomato ;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 200%;
+  position:absolute;
+  padding-left: 20%;
+}
+
+
+
+table {
+  font-family: arial,helvetica,sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  margin-left: 20%;
+}
+
+td{
+  border: 1px solid grey;
+  text-align: left;
+  padding: 10px;
+  font-size: 95%;
+}
+
+th {
+  border: 1px solid grey;
+  background-color:darkgray;
+  text-align: left;
+  padding: 10px;
+  font-size: 100%;
+
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.FinalResult{
+  color: dodgerblue   ;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 200%;
+  position:absolute;
+  padding-left: 20%;
+}
+
+.gpa,.cgpa{
+  color: midnightblue;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 160%;
+  position:absolute;
+  padding-left: 35%;
+
+}
+
+.c,.g {
+  color: black;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 160%;
+  position:absolute;
+  padding-left: 41%;
+
+}

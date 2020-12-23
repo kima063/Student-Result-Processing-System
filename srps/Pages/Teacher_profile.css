@@ -1,0 +1,66 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: maroon;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 300%;
+  padding-left: 38%;
+
+}
+.name{
+  color: forestgreen;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 200%;
+  position:absolute;
+  padding-left: 20%;
+}
+
+.mail{
+  color: rebeccapurple;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 200%;
+  position:absolute;
+  padding-left: 20%;
+}
+
+
+.TeacherName,.email {
+  color: black;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 180%;
+  position:absolute;
+  padding-left: 40%;
+
+}
+
+.courses{
+  color: mediumturquoise;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 200%;
+  position:absolute;
+  padding-left: 20%;
+
+}
+
+p {
+  color: navy;
+  font-family: ariel,helvetica,sans-serif;
+  font-size: 150%;
+  position:absolute;
+  padding-left: 40%;
+  padding-top: 10%;
+
+}
+
+ul.a {
+  list-style-type: square;
+  color: darkslategrey;
+  font-family: ariel,helvetica,sans-serif;
+  font-size: 180%;
+  position:absolute;
+  padding-left: 42%;
+   padding-top: -2%;
+
+}
+

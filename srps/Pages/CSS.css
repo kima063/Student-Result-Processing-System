@@ -1,0 +1,201 @@
+.label {
+  color: black;
+  padding: 8px;
+  font-family: Arial;
+  padding-top: 50px;
+}
+
+.userinfo {
+  position: absolute;
+  top: 30px;
+  left: 1065px;
+  font-weight: bold; 
+  padding: 5px;
+  border: 3px solid DarkGray;
+  background-color: GhostWhite;
+}
+
+.course {
+  position: absolute;
+  top: 94px;
+  left: 1055px;
+}
+
+.semester {
+  position: absolute;
+  top: 155px;
+  left: 1055px;
+}
+
+.year {
+  position: absolute;
+  top: 215px;
+  left: 1055px;
+}
+
+.img {
+	position: absolute;
+	left: 1000px;
+}
+
+.i1 {
+	top: 20px;
+}
+
+.i2 {
+	top: 80px;
+}
+
+.i3 {
+	top: 140px;
+}
+
+.i4 {
+	top: 200px;
+}
+
+.custom-select select{
+	padding: 5px;
+	width: 200px;
+	height: 30px;
+	border-style: inset;
+	font: normal 16px Arial, Helvetica,sans-serif;
+}
+
+h1 {
+  color: Brown;
+  margin-left: 170px;
+  font-size: 50px;
+}
+
+h2 {
+  color: Green ;
+  margin-left: 170px;
+  font-size: 20px;
+  font-weight: 640;
+  margin-bottom: 10px;
+  padding:4px;
+  font-family:normal 08px Arial, Helvetica,sans-serif;
+}
+
+p {
+  color: Green ;
+  margin-left: 170px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+  border-color: DarkGray;
+  width: 50%;
+  margin-left: 170px;
+  font: normal 18px Arial, Helvetica,sans-serif;
+  
+}
+tr:hover {background-color: #f5f5f5;}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+table, th, td {
+  border: 3px solid DimGrey;
+}
+
+th,td{
+
+	padding: 10px;
+}
+
+th {
+	font-size: 22px;
+}
+
+
+td {
+	vertical-align: bottom;
+}
+
+.th1{
+	color: GoldenRod  ;
+}
+
+.th2{
+	color: DarkRed;
+}
+
+.th3{
+	color: DarkOrange ;
+}
+
+.th4{
+	color: MediumVioletRed;
+}
+
+.th5{
+	color: DeepPink;
+}
+
+.th6{
+	color: PaleVioletRed;
+}
+
+.btn {
+	border: 1px solid Green;
+	color: White;
+	background-color: green;
+  padding: 5px 8px;
+  text-align: center;
+  font-size: 18px;
+  font-family: "montserrat";
+  cursor: pointer;
+  margin: 1px;
+  transition: 0.1s;
+  border-radius: 4px;
+}
+
+.btn1:hover {
+  color: Green;
+  background-color: White ;
+}
+
+.btn1 {
+  position: absolute;
+  left: 864px;
+}
+
+
+.att_form {
+  position: absolute;
+  left: 415px;
+  top: 343px;
+}
+
+input[type='text']{
+  background-position: 8px 50%;
+
+}
+
+.add_t_form {
+  font-size: 20px;
+  font-family: Arial;
+  margin-left: 170px;
+}
+
+.add_t_btn {
+  font-size: 18px;
+  font-family: Arial;
+  margin-left: 285px;
+  border-radius: 4px;
+  background-color: Beige ;
+}
+
+.in1{
+  margin-left: 10px;
+}
+
+.in2 {
+  margin-left: 62px;
+}
+
+.in3 {
+  margin-left: 66px;
+}

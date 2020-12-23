@@ -1,0 +1,189 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: Brown;
+  margin-left: 190px;
+  font-size: 50px;
+}
+
+.fas,.fa,.far {
+font-size: 500%;
+}
+
+.ic1 {
+  color: deeppink;
+  position: absolute;
+  top: 300px;
+  left:200px;
+  
+}
+
+.ic2 {
+  color: yellow;
+  position: absolute;
+  top: 300px;
+  left: 450px;
+  
+}
+
+.ic3 {
+  color: olivedrab;
+  position: absolute;
+  top: 300px;
+  left: 700px;
+  
+}
+
+.ic4 {
+  color: DarkBlue;
+  position: absolute;
+  top: 300px;
+  left: 940px;
+  
+}
+
+.ic5 {
+  color: Teal;
+  position: absolute;
+  top: 300px;
+  left: 1200px;
+  
+}
+
+.p1 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 200px;
+}
+
+
+
+.p2 {
+  color: DarkSlateGray ;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 193px;
+  }
+
+
+
+.p3 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 130px;
+}
+
+.p5 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 182px;
+}
+
+
+
+.p6 {
+  color: DarkSlateGray ;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 170px;
+  }
+
+
+
+.p7 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 130px;
+}
+
+.p8 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 100px;
+}
+
+.p9 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 110px;
+}
+
+.p10 {
+  color: DarkSlateGray ;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 125px;
+  }
+
+
+
+.p11 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 80px;
+}
+
+.p12 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 60px;
+}
+
+.ps1 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 183px;
+}
+
+.ps2 {
+  color: DarkSlateGray;
+  font-family: arial;
+  font-size: 200%;
+  margin-left: 100px;
+}
+
+.label {
+  color: black;
+  padding: 8px;
+  font-family: Arial;
+  padding-top: 50px;
+}
+
+.userinfo {
+  position: absolute;
+  top: 30px;
+  left: 1065px;
+  font-weight: bold; 
+  padding: 5px;
+  border: 3px solid DarkGray;
+  background-color: GhostWhite;
+}
+
+.img {
+  position: absolute;
+  left: 1000px;
+  top: 20px;
+}
+
+a:hover {
+  color: DarkRed;
+}
+
+a:active {
+  color: blue;
+}
+
+a:link {
+  text-decoration: none;
+}
